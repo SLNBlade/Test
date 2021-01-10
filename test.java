@@ -1,2 +1,10 @@
-//12345
-//m222222
+public class test {
+	
+	public static void main(String[] args){
+		
+		System.out.println("No Hello World!");
+		
+		
+	}
+	
+}
